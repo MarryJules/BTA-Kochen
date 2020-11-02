@@ -1,0 +1,20 @@
+h1 {
+  color: green;
+}
+
+p {
+  color: white;
+  background-color: black;
+}
+
+a {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Das ist ein Kommentar*/
+
+a:hover {
+  color: blue;
+}
